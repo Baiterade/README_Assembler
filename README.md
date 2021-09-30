@@ -27,3 +27,7 @@ Feel free to fork this repo and make any improvements you wish.
 ## Tests
   
 Tests are found in the index.test.js file.
+
+## Video Walkthrough:
+
+https://watch.screencastify.com/v/SajYq8yGmcVBdoeqBGP0
